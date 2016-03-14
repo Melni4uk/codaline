@@ -1,0 +1,15 @@
+.name-list {
+    display: block;
+}
+
+.user-name {
+    display: block;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.body {
+    background: #1E90FF;
+}
